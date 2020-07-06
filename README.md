@@ -1,2 +1,2 @@
-# C-Algorithm-Benchmarks
+# CSharp-Algorithm-Benchmarks
 Benchmarks
